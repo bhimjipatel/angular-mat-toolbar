@@ -1,0 +1,16 @@
+/** No CSS for this example */
+
+.scroll-wrapper {
+  overflow: auto;
+  max-height: 500px;
+}
+
+.sticky-toolbar {
+  position: sticky;
+  top: 0px;
+}
+
+.opaque {
+  background-color: transparent;
+  color: black;
+}
